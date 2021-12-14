@@ -15,7 +15,7 @@ This my first scraping project. This is not really scalable and it is only worki
 
 ## How to use 
 
-Execute launcher.bat
+Execute swell_finder.exe in the dist folder
 
 
 
