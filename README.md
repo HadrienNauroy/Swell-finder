@@ -13,5 +13,9 @@ This my first scraping project. This is not really scalable and it is only worki
 - [Python](https://www.python.org/)
 - [Selenium](https://selenium-python.readthedocs.io/) 
 
+## How to use 
+
+Execute launcher.bat
+
 
 
